@@ -9,7 +9,7 @@ public class Ejercicio1 {
         for (int i = 0; i < a.length; i++) {
             System.out.println("a[" + i + "]=" + a[i]);
         }
-        //sumar los numeros pares e impares del arregloo y mostrar el resultado
+        //sumar los numeros pares e impares del arreglo y mostrar el resultado
         int sumapares = 0, sumaImpares = 0;
         for (int i _= 0; i < a.length; i++) {
             if(a[i]%2 == 0) {
